@@ -1,0 +1,8 @@
+# ignore build directory
+build
+
+# ignore cache files
+.cache
+
+# Ignore testing directory
+Testing
